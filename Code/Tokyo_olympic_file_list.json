@@ -1,0 +1,27 @@
+[
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"darshilparmar/tokyo-olympic-azure-data-engineering-project/refs/heads/main/data/Athletes.csv",
+        "sinkFileName":"tokyo-olympic-data/athletes.csv"
+    },
+    {
+        "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"darshilparmar/tokyo-olympic-azure-data-engineering-project/refs/heads/main/data/Coaches.csv",
+        "sinkFileName":"tokyo-olympic-data/coaches.csv"
+    },
+    {
+       "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"darshilparmar/tokyo-olympic-azure-data-engineering-project/refs/heads/main/data/EntriesGender.csv",
+        "sinkFileName":"tokyo-olympic-data/entriesgender.csv"
+    },
+    {
+       "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"darshilparmar/tokyo-olympic-azure-data-engineering-project/refs/heads/main/data/Medals.csv",
+        "sinkFileName":"tokyo-olympic-data/medals.csv"
+    },
+    {
+       "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"darshilparmar/tokyo-olympic-azure-data-engineering-project/refs/heads/main/data/Teams.csv",
+        "sinkFileName":"tokyo-olympic-data/teams.csv"
+    }
+]
