@@ -31,3 +31,7 @@ This project showcases the integration of Azure services to build a scalable, ef
 
 ### Architecture Of Project : 
 ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/Project%20Architecture.JPG)
+
+#### Dataset Used :
+https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tree/main/data
+
