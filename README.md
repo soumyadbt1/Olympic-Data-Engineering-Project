@@ -34,4 +34,10 @@ This project showcases the integration of Azure services to build a scalable, ef
 
 #### Dataset Used :
 https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tree/main/data
+![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/source%20data.JPG)
+
+#### STEPS FOLLOWED : 
+
+1. Created a JSON file to put in the items SourceBaseURL, SourceRelativeURL and sinkFileName which are used in the pipeline.
+     
 
