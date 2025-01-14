@@ -66,7 +66,20 @@ https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tr
 
 9. Query the tables and do some analysis using SQL
  ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/query%20the%20table%20successfully.JPG)
+
+ SQL Code:
  https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Code/Tokyo%20Data%20Analysis.sql
+ 
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/SQL%20Data%20Analysis.JPG)
+
+11. Use the tables in Power BI to create some basic level of reporting on top it.
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/connecting%20to%20PBI.JPG)
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/connected%20to%20PBI.JPG)
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/Basic%20Reporting.JPG)
+
+Thats End of Project!!
+
+Thank You!
 
 
  
