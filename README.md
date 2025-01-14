@@ -56,7 +56,11 @@ https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tr
 6. The pipeline run ingested the CSV files to the raw-data container.
  ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/ingested%20csv%20files.JPG)
 
-7. Performed few Transformations using Spark in Databricks.
- ![Image]()
+7. Performed few Transformations using Spark in Databricks and write the transformed data to "transformed-data" container.
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Code/Tokyo%20Olympic%20Transformation.ipynb)
+
+8.
+
+
      
 
