@@ -39,5 +39,12 @@ https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tr
 #### STEPS FOLLOWED : 
 
 1. Created a JSON file to put in the items SourceBaseURL, SourceRelativeURL and sinkFileName which are used in the pipeline.
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/source%20JSON.JPG)
+
+2. The above is then used in an HTTP Linked Server in Copy Job Activity with parameters SourceBaseURL
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/HTTP%20API%20link%20service%20and%20dataset%20parameters.JPG)
+
+3. Build a Pipeline where Lookup Activity passes on objects to a ForEachLoop Iterator with Copy Job action in it.
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/pipeline%20created.JPG)
      
 
