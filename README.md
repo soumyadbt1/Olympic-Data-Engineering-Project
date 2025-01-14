@@ -64,7 +64,7 @@ https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tr
  
  ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/created%20all%20tables%20in%20lake%20database.JPG)
 
-9. Query the tables and do some analysis using SQL
+9. Query the tables and do some analysis using SQL (the code is below)
  ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/query%20the%20table%20successfully.JPG)
 
  SQL Code:
@@ -72,7 +72,7 @@ https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tr
  
  ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/SQL%20Data%20Analysis.JPG)
 
-11. Use the tables in Power BI to create some basic level of reporting on top it.
+11. Use the tables in Synapse via Power BI to create some basic level of reporting on top it.
  ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/connecting%20to%20PBI.JPG)
  ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/connected%20to%20PBI.JPG)
  ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/Basic%20Reporting.JPG)
