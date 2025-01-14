@@ -57,9 +57,18 @@ https://github.com/darshilparmar/tokyo-olympic-azure-data-engineering-project/tr
  ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/ingested%20csv%20files.JPG)
 
 7. Performed few Transformations using Spark in Databricks and write the transformed data to "transformed-data" container.
- ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Code/Tokyo%20Olympic%20Transformation.ipynb)
+ https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Code/Tokyo%20Olympic%20Transformation.ipynb
 
-8.
+8. Created Lake Database "TokyoOlympicDB" and External Tables using files in ADLSg2 via Synapse.
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/external%20table%20from%20data%20lake.JPG)
+ 
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/created%20all%20tables%20in%20lake%20database.JPG)
+
+9. Query the tables and do some analysis using SQL
+ ![Image](https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Snapshots/query%20the%20table%20successfully.JPG)
+ https://github.com/soumyadbt1/Olympic-Data-Engineering-Project/blob/main/Code/Tokyo%20Data%20Analysis.sql
+
+ 
 
 
      
